@@ -2,6 +2,8 @@
 
 Welcome to my typing journey repository! This page documents my progress, experiences, and tips as I improve my typing skills over time.
 
+<!-- MONKEYTYPE -->
+
 ## About This Project
 
 This repository chronicles my personal journey to become a faster and more accurate typist. Here, I share:

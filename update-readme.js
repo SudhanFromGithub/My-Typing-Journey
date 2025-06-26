@@ -57,6 +57,15 @@ async function fetchPersonalBests() {
       readmeContent += '\n' + monkeytypeSection;
     }
 
+    const monkeytypeSection = `![Monkeytype 30s](https://img.shields.io/badge/Monkeytype_30s-${pb30}_WPM-blue)`;
+
+    const marker = '<!-- MONKEYTYPE -->';
+if (readmeContent.includes(marker)) {
+  readmeContent = readmeContent.replace(marker, monkeytypeSection);
+} else {
+  readmeContent += '\n' + monkeytypeSection;
+}
+
     // Write updated content back to README
     fs.writeFileSync('README.md', readmeContent);
     console.log('README updated with 30-second personal best!');
