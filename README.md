@@ -43,11 +43,3 @@ Feel free to connect with me or share your own typing journey!
 ---
 
 Thank you for visiting my typing journey page! Keep practicing and happy typing! 🚀
-
-
-
-
-## My Monkeytype 30-Second Personal Best 🐒
-
-- **30 Seconds (English)**: 86.37 WPM
-    
